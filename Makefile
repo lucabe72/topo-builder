@@ -1,4 +1,4 @@
-CXXFLAGS=-g -std=c++0x -O3 -DNDEBUG -Wall -pedantic
+CXXFLAGS=-g -std=c++0x -O3 -DNDEBUG -Wall -Wextra -pedantic
 CPPFLAGS=-I. -Ilib   
 LDFLAGS=-g 
 
